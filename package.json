@@ -1,0 +1,38 @@
+{
+  "name": "fitness-club",
+  "version": "0.1.0",
+  "description": "Communication layer for the Fitness Club Google Sheet",
+  "main": "lib/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtracy/fitness-club.git"
+  },
+  "author": "Greg Tracy",
+  "keywords": [
+    "fitness",
+    "google sheet",
+    "google spreadsheet"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gtracy/fitness-club/issues"
+  },
+  "homepage": "https://github.com/gtracy/fitness-club#readme",
+  "dependencies": {
+    "aws-serverless-express": "^3.3.5",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "googleapis": "^43.0.0",
+    "logme": "^0.4.0",
+    "pug": "^2.0.3",
+    "twilio": "^3.35.1",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-google": "^0.14.0"
+  }
+}
