@@ -29,7 +29,7 @@
     "logme": "^0.4.0",
     "pug": "^2.0.3",
     "twilio": "^3.35.1",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "eslint": "^6.5.1",
